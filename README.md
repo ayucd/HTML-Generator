@@ -1,6 +1,6 @@
 # HTML Generator
 
-This is a fine-tuned Llama-2-7B model that generates HTML code for a given natural language prompt. The fine-tuned was completed using the Supervised Fine Tuning Trainer (SFTTrainer) from the Transformer Reinforcement Learning (trl) library, which is a full stack library that provides a set of tools to train language models with Reinforcement Learning, from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step. The library is integrated with Hugging Face transformers.
+This is a fine-tuned Llama-2-7B model that generates HTML code for a given natural language prompt. The fine-tuning was completed using the Supervised Fine Tuning Trainer (SFTTrainer) from the Transformer Reinforcement Learning (trl) library, which is a full stack library that provides a set of tools to train language models with Reinforcement Learning, from the Supervised Fine-tuning step (SFT), Reward Modeling step (RM) to the Proximal Policy Optimization (PPO) step. The library is integrated with Hugging Face transformers.
 
 ## Index
 1. [The Dataset](#the-dataset)
